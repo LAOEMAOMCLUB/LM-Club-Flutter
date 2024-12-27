@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Lm Club</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>LM Club</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>9</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>whatsapp</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This app uses your apple music.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>This app uses your bluetooth.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>This app uses your bluetooth.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>This app uses your calendar.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This will allow LM Club to let you take photo or video and upload them to the app.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>This app uses your contacts.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app uses your apple location.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app uses your apple location.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app uses the microphone to record videos with audio.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This app needs to be able to access your motion use.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This will allow LM Club to share photos and video from your library and upload them to the app.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>recognize speech.</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
